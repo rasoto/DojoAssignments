@@ -1,0 +1,12 @@
+1.cd documents
+2.cd dojoassignments
+3.git init
+4.git add .
+5.git commit -m "dojo assignment repo"
+6.created github repo and copy pasted the push section
+7.copy nul readme.md
+8.cupy nul dojoassignmentrepo.txt
+9.git status
+10.git add .
+11.git commit -m "changed name of readme.txt to DojoAssignemtnRepo.txt"
+12.

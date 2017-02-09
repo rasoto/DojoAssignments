@@ -9,4 +9,4 @@
 9.git status
 10.git add .
 11.git commit -m "changed name of readme.txt to DojoAssignemtnRepo.txt"
-12.
+12.git push -u origin master
